@@ -16,9 +16,13 @@ published: true
 [ftp://ftp.slav.su.se/pub/slav/kursmaterial/rynyb/Gram_Text_I/SVP_sv-ry_overs/SvP_sv-ry_01.pdf](PDF)
 - Gör dessa övningar i Wordalist:
 [http://wordalist.com/exercise/56/section/40](40)
+
 [http://wordalist.com/exercise/56/section/36](36)
+
 [http://wordalist.com/exercise/56/section/47](47)
+
 [http://wordalist.com/exercise/67/section/178](178)
+
 Extra övningar i grammatisk analys av ryska meningar (för den som vill):
 [https://wordalist.com/exercise/1093](1093)
 
