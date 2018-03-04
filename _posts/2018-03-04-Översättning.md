@@ -17,7 +17,7 @@ published: true
 ## Från Ryska till Svenska  
 
 Alla ryssar tittar på TV. Deras TV är rysk eller japansk.
-TV står i vardagsrummet eller i köket. 
+TVn står i vardagsrummet eller i köket.
 De tittar mycket på TV när de äter frukost eller middag.
 Ryssar gillar mycket att titta på reklam eller [алйнные] amerikanska serier.
 Det finns populära ryska program. 
