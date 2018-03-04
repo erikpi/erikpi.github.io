@@ -21,6 +21,7 @@ header_pages:
 - about.md
 - posts.md
 - github.md
+- travelmap.md
 
 footer_icons:
 - username: aterenin/minima-reboot/
