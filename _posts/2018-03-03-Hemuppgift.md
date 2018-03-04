@@ -17,11 +17,15 @@ published: true
 - Gör dessa övningar i Wordalist:
 [http://wordalist.com/exercise/56/section/40](40)
 
+
 [http://wordalist.com/exercise/56/section/36](36)
+
 
 [http://wordalist.com/exercise/56/section/47](47)
 
+
 [http://wordalist.com/exercise/67/section/178](178)
+
 
 Extra övningar i grammatisk analys av ryska meningar (för den som vill):
 [https://wordalist.com/exercise/1093](1093)
