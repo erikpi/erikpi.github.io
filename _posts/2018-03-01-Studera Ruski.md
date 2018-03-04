@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## 🎓  Ryska 🎓  
+### 🎓  Ryska 🎓  
 
 ![]({{site.baseurl}}/images//ryska.jpg)
 
