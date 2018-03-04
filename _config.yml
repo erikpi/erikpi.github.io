@@ -1,6 +1,6 @@
-title: minima-reboot
-author: GitHub User
-email: your-email@domain.com
+title: Ryskt lärande
+author: erikpi
+email: jaomi@haxx.info
 description: >
   This is a demo page for minima-reboot, a bootstrap-based rewrite of Jekyll's
   default minima theme. It is simple, lightweight, and responsive.
@@ -21,10 +21,11 @@ header_pages:
 - about.md
 - posts.md
 - github.md
+- TEST 
 
 footer_icons:
-- username: aterenin/minima-reboot/
-  url: https://github.com/aterenin/minima-reboot/
+- username: erikpi
+  url: https://github.com/erikpi
   icon: icon-github.svg
 
 paginate: 5
