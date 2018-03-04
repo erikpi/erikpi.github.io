@@ -24,20 +24,20 @@ header_pages:
 - travelmap.md
 
 footer_icons:
-- username: aterenin/minima-reboot/
-  url: https://github.com/aterenin/minima-reboot/
+- username: erikpi
+  url: https://github.com/erikpi
   icon: icon-github.svg
   #Custom list start? 
   dribbble:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: erikpi
+  instagram: erikivarski
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: ivarerik
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
