@@ -27,6 +27,7 @@ Extra övningar i grammatisk analys av ryska meningar (för den som vill):
 
 
 # Praktik 
+## Inför nästa lektion tors 8/3: Урок 2
 [forumlänk](http://slav.su.se/slavinstforum/viewtopic.php?f=2&t=3289&sid=9080b88624592958638860180fcd22e1#p16268)
 
 Läxa: övningar i handouten (bifogad, skriv minst 3 meningar på vad man får / får inte göra på olika ställen), урок 2 i bocken ( :twisted: glöm inte att göra övningar! Även om vi inte går igenom alla uppgifterna där, ska ni jobba med boken själva! ).
