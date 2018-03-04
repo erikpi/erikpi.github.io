@@ -1,5 +1,5 @@
 ---
-title: GitHub
+title: TravelMap
 redirect_to:
-  - http://ryska.haxx.info/travelMap/
+  - http://ryska.haxx.info/TravelMap/
 ---
