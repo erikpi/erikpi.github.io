@@ -42,3 +42,13 @@ Text :
 Они работают в школе. Они живут в Петербурге. 
 Сегодня они готовиют русский борш. Они очень любиют борщ. Они читают жорнал и пьют пиво. 
 Они играют на комбютере. Они смотриют жорнал мод. Они говориют по телефону.
+
+### "Att ha"
+
+Översätt följande meningar till ryska
+---
+a. Du har en kulspetspenna
+b. Jag har en svensk bil
+c. Hon har en dator
+d. Han har en firma
+---
