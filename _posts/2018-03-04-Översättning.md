@@ -55,11 +55,11 @@ c. Hon har en dator -- Она есть комьютер
 
 d. Han har en firma -- у Он есть фирма
 
-e. De har en svart bok -- Они есть ... книга
+e. De har en svart bok -- Они есть черная книга
 
 f. Vi har en stor lägenhet -- Мы есть большая квартира
 
-g. Ni har en dansk granne -- вы есть данскии ...
+g. Ni har en dansk granne -- вы есть данский сосед
 
 
 
