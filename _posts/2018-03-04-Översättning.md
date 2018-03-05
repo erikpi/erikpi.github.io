@@ -53,7 +53,7 @@ b. Jag har en svensk bil -- У меня есть шведская машина
 
 c. Hon har en dator -- Она есть комьютер
 
-d. Han har en firma -- Он есть фирме
+d. Han har en firma -- у Он есть фирма
 
 e. De har en svart bok -- Они есть ... книга
 
