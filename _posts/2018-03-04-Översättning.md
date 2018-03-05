@@ -51,13 +51,13 @@ a. Du har en kulspetspenna -- У тебя есть ручка
 
 b. Jag har en svensk bil -- У меня есть шведская машина
 
-c. Hon har en dator -- Она есть комьютер
+c. Hon har en dator -- y Она есть комьютер
 
-d. Han har en firma -- Он ест фирме
+d. Han har en firma -- y Он ест фирме
 
-e. De har en svart bok -- Он ест ... книга
+e. De har en svart bok -- y Он ест ... книга
 
-f. Vi har en stor lägenhet -- Мы ест большая квартира
+f. Vi har en stor lägenhet -- y Мы ест большая квартира
 
 g. Ni har en dansk granne -- У вы есть данскии ...
 
