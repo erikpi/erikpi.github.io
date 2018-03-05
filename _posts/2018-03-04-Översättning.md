@@ -51,15 +51,15 @@ a. Du har en kulspetspenna -- У тебя есть ручка
 
 b. Jag har en svensk bil -- У меня есть шведская машина
 
-c. Hon har en dator -- Она есть комьютер
+c. Hon har en dator -- У её есть комьютер
 
-d. Han har en firma -- у Он есть фирма
+d. Han har en firma -- У его есть фирма
 
-e. De har en svart bok -- Они есть черная книга
+e. De har en svart bok -- У их есть черная книга
 
-f. Vi har en stor lägenhet -- Мы есть большая квартира
+f. Vi har en stor lägenhet -- у нас есть большая квартира
 
-g. Ni har en dansk granne -- вы есть данский сосед
+g. Ni har en dansk granne -- у вас есть данский сосед
 
 ### Pronomen
 
