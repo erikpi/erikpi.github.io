@@ -19,6 +19,8 @@ published: true
 Alla ryssar tittar på TV. Deras TV är rysk eller japansk.
 TVn står i vardagsrummet eller i köket.
 De tittar mycket på TV när de äter frukost eller middag.
-Ryssar gillar mycket att titta på reklam eller [алйнные] amerikanska serier.
+Ryssar gillar mycket att titta på reklam eller långa amerikanska serier.
 Det finns populära ryska program. 
-[Особенно популярны старые русские фильмы] Särskilt populära är ryska filmer.
+[Особенно популярны старые русские фильмы] Särskilt populära är gamla ryska filmer.
+
+[алйнные] lång 
