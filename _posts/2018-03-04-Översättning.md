@@ -60,3 +60,7 @@ e. De har en svart bok -- Он ест ... книга
 f. Vi har en stor lägenhet -- Мы ест большая квартира
 
 g. Ni har en dansk granne -- У вы есть данскии ...
+
+
+
+
