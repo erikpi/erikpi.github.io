@@ -57,9 +57,9 @@ d. Han har en firma -- У его есть фирма
 
 e. De har en svart bok -- У их есть черная книга
 
-f. Vi har en stor lägenhet -- у нас есть большая квартира
+f. Vi har en stor lägenhet -- У нас есть большая квартира
 
-g. Ni har en dansk granne -- у вас есть данский сосед
+g. Ni har en dansk granne -- У вас есть данский сосед
 
 ### Pronomen
 
