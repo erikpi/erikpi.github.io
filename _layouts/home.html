@@ -18,7 +18,7 @@ layout: default
     {% assign date_format = site.minima_reboot.date_format | default: "%b %-d, %Y" %}
     {% for post in posts %}
       <li class="py-2">
-        <span class="text-secondary">{{ post.date | date: date_format }}</span>
+        <span class="text-secondary">{{ post.date | date: date_format }} {% last_modified_at %} </span>
 
         <h1 class="mt-1 mb-3 h3">
           <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
