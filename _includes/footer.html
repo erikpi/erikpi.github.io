@@ -34,6 +34,12 @@
       {% endif %}
       <div class="col-12 col-lg">
         <p class="text-secondary text-justify">{{ site.description | escape }}</p>
+        <form action="https://formspree.io/jaomi@haxx.info"
+          method="POST">
+           <input type="text" name="name">
+           <input type="email" name="_replyto">
+           <input type="submit" value="Send">
+        </form>
       </div>
     </div>
 
