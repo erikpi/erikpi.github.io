@@ -48,9 +48,15 @@ Text :
 Översätt följande meningar till ryska
 
 a. Du har en kulspetspenna -- У тебя есть ручка
+
 b. Jag har en svensk bil -- У меня есть шведская машина
+
 c. Hon har en dator -- Она есть комьютер
+
 d. Han har en firma -- Он ест фирме
+
 e. De har en svart bok -- Он ест ... книга
+
 f. Vi har en stor lägenhet -- Мы ест большая квартира
+
 g. Ni har en dansk granne -- У вы есть данскии ...
