@@ -15,7 +15,7 @@ layout: default
   {% endif %}
 
   <ul class="list-unstyled m-0">
-    {% assign date_format = site.minima_reboot.date_format | default: "%-m-%-d-%Y" %}
+    {% assign date_format = site.minima_reboot.date_format | default: "%-d %B %Y" %}
     {% for post in posts %}
       <li class="py-2">
         <span class="text-secondary">{{ post.date | date: date_format }}</span>
