@@ -9,6 +9,8 @@ layout : default
 
 #### Del 1
 
+{% include youtubePlayer.html id=page.xJ1T9a9jYSM %}
+
 [[embed url=http://www.youtube.com/watch?v=xJ1T9a9jYSM]]
 
 #### Del 2
