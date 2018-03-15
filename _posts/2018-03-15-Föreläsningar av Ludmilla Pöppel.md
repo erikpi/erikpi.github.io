@@ -3,8 +3,6 @@ published : true
 layout : default
 ---
 
-## Föreläsningar av Ludmilla Pöppel 
-
 Föreläsningarna är de tre obligatoriska föreläsningar som hör till delkursen ”Grammatik och text I” och det kommer finnas en inlämningsuppgift i anslutning till föreläsningarna. Detaljer finns i kursforumet (dagboken).
 
 
