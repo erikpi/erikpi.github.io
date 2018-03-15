@@ -9,7 +9,7 @@ layout : default
 
 #### Del 1
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/xJ1T9a9jYSM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="530" height="315" src="https://www.youtube.com/embed/xJ1T9a9jYSM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 {% include youtubePlayer.html id=xJ1T9a9jYSM %}
 
