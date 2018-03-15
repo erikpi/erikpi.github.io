@@ -9,6 +9,8 @@ layout : default
 
 #### Del 1
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/xJ1T9a9jYSM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 {% include youtubePlayer.html id=xJ1T9a9jYSM %}
 
 [[embed url=http://www.youtube.com/watch?v=xJ1T9a9jYSM]]
