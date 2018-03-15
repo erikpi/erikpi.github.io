@@ -3,6 +3,9 @@ published : true
 layout : default
 ---
 
+## Föreläsningar av Ludmilla Pöppel 
+
+Föreläsningarna är de tre obligatoriska föreläsningar som hör till delkursen ”Grammatik och text I” och det kommer finnas en inlämningsuppgift i anslutning till föreläsningarna. Detaljer finns i kursforumet (dagboken).
 
 
 ### Första föreläsningen
@@ -11,46 +14,33 @@ layout : default
 
 <iframe width="530" height="315" src="https://www.youtube.com/embed/xJ1T9a9jYSM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-{% include youtubePlayer.html id=xJ1T9a9jYSM %}
-
-[[embed url=http://www.youtube.com/watch?v=xJ1T9a9jYSM]]
-
 #### Del 2
 
-{% include youtubePlayer.html id=gqF7DPImLTk %}
-
-[[embed url=http://www.youtube.com/watch?v=gqF7DPImLTk]]
-
+<iframe width="530" height="315" src="https://www.youtube.com/embed/gqF7DPImLTk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### Andra föreläsningen
 
 #### Del 1
 
-{% include youtubePlayer.html id=PkoT2bsaQ %}
+<iframe width="530" height="315" src="https://www.youtube.com/embed/u-PkoT2bsaQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-[[embed url=http://www.youtube.com/watch?v=u-PkoT2bsaQ]]
 
 #### Del 2
 
-{% include youtubePlayer.html id=wPnFmEv-9Dc %}
-
-[[embed url=http://www.youtube.com/watch?v=wPnFmEv-9Dc]]
+<iframe width="530" height="315" src="https://www.youtube.com/embed/wPnFmEv-9Dc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### Tredje föreläsningen
 
 #### Del 1
 
-{% include youtubePlayer.html id=DTIKJ9x1UaI %}
+<iframe width="530" height="315" src="https://www.youtube.com/embed/DTIKJ9x1UaI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[[embed url=http://www.youtube.com/watch?v=DTIKJ9x1UaI]]
 
 #### Del 2
 
-{% include youtubePlayer.html id=X6FCIKvJ50M %}
+<iframe width="530" height="315" src="https://www.youtube.com/embed/X6FCIKvJ50M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-[[embed url=http://www.youtube.com/watch?v=X6FCIKvJ50M]]
 
